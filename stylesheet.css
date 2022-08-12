@@ -1,0 +1,38 @@
+.box1{
+    width: 350px;
+    height: 350px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 80px;
+    background: linear-gradient(to bottom left,red,orange,darkviolet);
+}
+.box2{
+    width: 250;
+    height: 250;
+    background-color: red;
+    flex-wrap: wrap;
+    border-radius: 90px;
+    border: 20px solid white;
+    background: linear-gradient(to bottom left,red,orange,darkviolet);
+
+}
+.box3{
+    width: 24px;
+    height: 24px;
+    background-color: white;
+    border-radius: 100px;
+    margin-left: 190px;
+    margin-top: 15px;
+}
+.box4{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 100px;
+    border: 20px solid white;
+    margin-left: 30px;
+    background: linear-gradient(to bottom left,red,orange,darkviolet);
+
+}
